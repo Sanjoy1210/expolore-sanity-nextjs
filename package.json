@@ -6,6 +6,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "@portabletext/react": "^2.0.1",
+    "@sanity/client": "^5.2.2",
+    "@sanity/image-url": "^1.0.2",
+    "groq": "^3.5.0",
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0"
